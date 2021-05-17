@@ -5,4 +5,4 @@ This project assumes that you can manipulate data using pandas and can make basi
 
 The dataset used in this project is a modified version of the Disney Character Success dataset from Kelly Garrett.
 <br>
-!(Disney)[image/disney-movies-1613592418.jpg]
+![Disney](image/disney-movies-1613592418.jpg)
